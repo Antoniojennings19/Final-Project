@@ -10,9 +10,25 @@
     document.getElementById('background').style.backgroundSize = "cover"; 
 </script>
 
-    <!-- Web Grid -->
-        <div class='web-grid-three'>
-            
+<!-- Web Grid -->
+    <div class='web-grid-three'>
+        <div class="container">
+            <form action="/action_page.php">
+                <label label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                
+                <label for="lname">Email</label>
+                <input type="text" id="email" name="email" placeholder="Ex. John@yahoo.com">
+                
+                <label for="subject">Have Any Questions or Comments?</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                <input type="submit" value="Submit">
+
+            </form> 
         </div>
+    </div>
 </body>
 </html>

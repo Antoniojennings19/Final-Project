@@ -13,9 +13,9 @@
 
     <!-- Iframe Grid -->
         <div class="iframe-grid">
-            <a href='./View/Public/Projects/FIT-Project--Learning-Experience-/index.php'><h2 style="background-color: black; color: white;">Learning Experience</h2></a>
-            <a href='./View/Public/Projects/Bubble-Blower/'><h2 style="background-color: black; color: white;">Bubble Blower</h2></a>
-            <a href='./View/Public/Projects/FIT--Web-Exercises-Week-01/Index.html'><h2 style="background-color: black; color: white;">Anime Phone Case</h2></a>
+            <a href='./View/Public/Projects/FIT-Project--Learning-Experience-/index.php' target="_blank"><h2 style="background-color: black; color: white;">Learning Experience</h2></a>
+            <a href='./View/Public/Projects/Bubble-Blower/index.php' target="_blank"><h2 style="background-color: black; color: white;">Bubble Blower</h2></a>
+            <a href='./View/Public/Projects/FIT--Web-Exercises-Week-01/Index.html' target="_blank"><h2 style="background-color: black; color: white;">Anime Phone Case</h2></a>
         </div>
 </body>
 </html>

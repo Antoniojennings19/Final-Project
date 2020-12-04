@@ -102,9 +102,42 @@ p.my-info{
 
 h2 {
   padding: 20px 28px 20px;
-  width: 435px;
   margin: 40px;
   display: inline-block;
   text-align: center;
   border-radius: 13px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: navy;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: rgba(55, 55, 158, 0.836);
+}
+
+.container {
+  border-radius: 5px;
+  margin: 150px;
+  padding: 20px;
+}
+
+label{
+  color: White;
 }
