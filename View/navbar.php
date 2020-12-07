@@ -17,6 +17,7 @@
         <a href="./index.php">About</a>
         <a href="./projects.php">Projects</a>
         <a href="./contact.php">Contact</a>
+        <a href='https://github.com/Antoniojennings19' class="fa fa-github" style="font-size:36px; color: green;" target="_blank"></a>
     </div>
 
     <div id="main" class='main-style'>
